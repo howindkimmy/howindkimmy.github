@@ -8,8 +8,7 @@
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % ![图片描述](图片链接)
-![证件照](/zhengjianzhao.jpg)
+      <img src="/zhengjianzhao.jpg" width="100%">      % ![证件照](/微信图片_20220917193751.jpg)
 
     </td>
   </tr>
